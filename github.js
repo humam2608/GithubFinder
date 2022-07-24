@@ -19,4 +19,4 @@ class GitHub {
       repos: reposData 
     }
   }
-}
+}   

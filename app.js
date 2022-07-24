@@ -28,4 +28,4 @@ searchUser.addEventListener('keyup', (e) => {
     // clear profile
     ui.clearProfile()
   }
-})
+})   

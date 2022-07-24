@@ -2,7 +2,7 @@ class UI {
   constructor () {
     this.profile = document.querySelector('#profile')
   }
-
+  
   showProfile(user) {
     this.profile.innerHTML = `
       <div class="card card-body mb-3">
